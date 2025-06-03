@@ -1,5 +1,3 @@
-"use client"
-
 import { Header } from "@/components/layout/header"
 import { FullPageScroll } from "@/components/ui/full-page-scroll"
 import { HeroSection } from "@/components/sections/hero-section"
